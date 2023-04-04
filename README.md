@@ -1,2 +1,2 @@
-# feedback
+# Hushify
 Feedback repo for Hushify.
